@@ -69,6 +69,6 @@ The following features are **unlikely to be supported** in the future:
 - Haste module system: use something like [babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver) instead
 - Transpile files under `node_modules`: transpile your modules before publishing, or configure webpack not to ignore them
 
-## License
+## License.
 
 [MIT](./LICENSE.md)
